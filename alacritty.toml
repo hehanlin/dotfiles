@@ -1,0 +1,24 @@
+[shell]
+program = 'wsl.exe -d Manjaro -u he -e zellij attach he'
+
+[font]
+size = 16.0
+
+[font.bold]
+family = "FiraCode Nerd Font"
+style = "Bold"
+
+[font.italic]
+family = "FiraCode Nerd Font"
+style = "Italic"
+
+[font.normal]
+family = "FiraCode Nerd Font"
+style = "Regular"
+
+
+[window]
+
+opacity = 0.9
+
+startup_mode = "Fullscreen"
